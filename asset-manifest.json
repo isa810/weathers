@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/weathers/static/css/main.7e7a0561.css",
+    "main.js": "/weathers/static/js/main.b1e86b8a.js",
+    "static/media/nikolas-noonan-fQM8cbGY6iQ-unsplash.jpg": "/weathers/static/media/nikolas-noonan-fQM8cbGY6iQ-unsplash.cec461c761a217e19a7e.jpg",
+    "index.html": "/weathers/index.html",
+    "main.7e7a0561.css.map": "/weathers/static/css/main.7e7a0561.css.map",
+    "main.b1e86b8a.js.map": "/weathers/static/js/main.b1e86b8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e7a0561.css",
+    "static/js/main.b1e86b8a.js"
+  ]
+}
